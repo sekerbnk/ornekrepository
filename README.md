@@ -1,0 +1,4 @@
+ornekrepository
+===============
+
+test amaclı kullanılacak
